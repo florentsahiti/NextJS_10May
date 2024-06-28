@@ -12,8 +12,8 @@ function withdraw(person, amount) {
 
 let person = {
     name: "noizy",
-    balance: 1000
+    balance: 2000
 };
 
-withdraw(person, 500);  
-withdraw(person, 600);  
+withdraw(person, 1500);  
+withdraw(person, 1600);  
