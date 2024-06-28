@@ -1,0 +1,26 @@
+/* .red-h1{
+    color: red;
+    background-color: rgb(138, 138, 228);
+    font-weight: 200;
+}
+
+h2{
+    color: yellow;
+    background-color: blue;
+    font-weight: 500;
+} */
+
+.box{
+    border: 1px solid black;
+    padding: 20px 5px 5px 10px;
+    margin: 20px;
+    margin-right: 20px;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.justifyContentSpaceBetween{
+    justify-content: space-around;
+}
