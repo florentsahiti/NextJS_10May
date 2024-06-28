@@ -11,7 +11,7 @@ function withdraw(person, amount) {
 
 
 let person = {
-    name: "John Doe",
+    name: "noizy",
     balance: 1000
 };
 
